@@ -43,9 +43,9 @@ Este projeto tem como objetivo oferecer uma ferramenta prática no Excel para au
 
 As imagens a seguir demonstram algumas telas da ferramenta:
 
-![Tela Títular](images/titular.png)
-![Tela Informes](images/informes.png)
-![Tela Notas](images/notas.png)
+![Tela Títular](imagens/titular.png)
+![Tela Informes](imagens/informes.png)
+![Tela Notas](imagens/notas.png)
 
 ## 📂 Estrutura de Pastas
 
