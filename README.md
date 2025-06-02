@@ -55,7 +55,7 @@ As imagens a seguir demonstram algumas telas da ferramenta:
       
       ├── 📄 README.md
       
-      └── 📁 images
+      └── 📁 imagens
       
             ├── titular.png
             
